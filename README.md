@@ -1,4 +1,4 @@
-<h1 align="center">Hey there I am Rajveer</h1>
+<h2 align="center">Hey there I am Rajveer</h2>
 <h3 align="center">An aspiring Indian based Web Developer who is currently doing Full Stack Developement</h3>
 
 - 🌱 I’m currently learning **Full Stack Engineering**
